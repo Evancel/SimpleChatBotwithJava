@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot with Java/*
+!/Simple Chat Bot with Java/task/
+/Simple Chat Bot with Java/task/*
+!/Simple Chat Bot with Java/task/src
+
+# Project exclude paths
+/Topics/Characters/Find the next Unicode character/out/
+/Topics/Characters/Find the next Unicode character/out/production/classes/
+/Topics/Declaring methods/Calculating factorials/out/
+/Topics/Declaring methods/Calculating factorials/out/production/classes/
